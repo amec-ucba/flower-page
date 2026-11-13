@@ -59,10 +59,10 @@ Each video builds on the previous one, so please don't skip ahead.
 > for the HTML and CSS, and follow this repo for getting your files and submitting:
 >
 > - **Getting the starter files:** don't download `flowers start.zip`. Create your own repo
->   from this template and open it with GitHub Desktop, as described in the
+>   from this template and clone it in WebStorm, as described in the
 >   [Getting Started guide](GETTING_STARTED.md).
-> - **Branch:** do your work on a `develop` branch, not `main`. When you commit, the
->   button will say **Commit to develop**, not **Commit to main**.
+> - **Branch:** do your work on a `develop` branch, not `main`. Before you commit, the
+>   branch name at the top left of WebStorm should say `develop`, not `main`.
 > - **Submitting:** don't zip your folder or upload a file. Publish your site to GitHub
 >   Pages, open a pull request into `main`, and submit the **pull request URL** in Canvas,
 >   not your repository URL. The [Submitting guide](SUBMITTING.md) has the
@@ -130,7 +130,7 @@ If something is not working, check these common issues first:
 - Are your image paths written as `images/file-name.jpg`, including the folder name?
 - Is the footer jumping up beside the columns? Check that it is outside `main` and starts below the columns.
 - Do the other pages look right? They share `main.css`, so check your home page styles first.
-- Did you commit **and** push your changes in GitHub Desktop?
+- Did you commit **and** push your changes in WebStorm?
 
 **Having problems with the videos?**
 
