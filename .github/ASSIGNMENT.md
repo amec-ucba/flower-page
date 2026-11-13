@@ -60,12 +60,12 @@ Each video builds on the previous one, so please don't skip ahead.
 >
 > - **Getting the starter files:** don't download `flowers start.zip`. Create your own repo
 >   from this template and open it with GitHub Desktop, as described in the
->   [README](README.md#-getting-started).
+>   [Getting Started guide](GETTING_STARTED.md).
 > - **Branch:** do your work on a `develop` branch, not `main`. When you commit, the
 >   button will say **Commit to develop**, not **Commit to main**.
 > - **Submitting:** don't zip your folder or upload a file. Publish your site to GitHub
 >   Pages, open a pull request into `main`, and submit the **pull request URL** in Canvas,
->   not your repository URL. The [README](README.md#-submitting-the-assignment) has the
+>   not your repository URL. The [Submitting guide](SUBMITTING.md) has the
 >   steps.
 
 > [!IMPORTANT]
@@ -153,4 +153,4 @@ If something is not working, check these common issues first:
 
 ---
 
-The AI policy and submission instructions are in the [README](README.md).
+The AI policy and submission instructions are in the [README](../README.md).
